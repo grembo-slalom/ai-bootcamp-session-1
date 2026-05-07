@@ -59,7 +59,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Harambe Died for This</h1>
-        <p>Connected to in-memory database</p>
+        <p>Hello World</p>
       </header>
       
       <main>
